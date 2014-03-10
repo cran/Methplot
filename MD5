@@ -1,0 +1,11 @@
+0e2c656f89de708dd1a1b9a2b6aceac8 *DESCRIPTION
+4d0cfec30408753659de0b5859c68c06 *NAMESPACE
+a9e20b106b512e0a65ddb69db8a3fff9 *R/getdata.R
+d1d36317160fa060521fcb3cbc49698c *R/plotting.R
+73bade3fdbcf8b7a7536225861a1affc *data/mydata.RData
+280cad2706e2715333952857e7b8aa46 *inst/extdata/P1_A1.site
+e4fc50c41aef32499ba4ecc701c35ad9 *inst/extdata/P1_A2.site
+5f349dccf57e04db055aeb9056932220 *man/Methplot-package.Rd
+9a04898ec2c400685581f9cd3d505e57 *man/getdata.Rd
+98cd666b86ad2d0c60a783f513b47c43 *man/mydata.Rd
+aba7f6418827a2c48ad9b93143fd6c48 *man/plotdata.Rd
